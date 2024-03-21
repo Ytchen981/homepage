@@ -6,6 +6,8 @@ Currently, I am an Phd student in Department of Computer Science and Engineering
 
 ### Selected Publications
 
+**Yiting Chen**, Zhanpeng Zhou, Junchi Yan. Going Beyong Neural Network Similarity: The Network Feature Complexity and Its Interpretation Using Category Theory. The Twelfth International Conference on Learning Representations (ICLR 2024)
+
 **Yiting Chen**, Qibing Ren, Junchi Yan. Rethinking and Improving Robustness of Convolutional Neural Networks: a Shapley Value-based Approach in Frequency Domain. Advances in Neural Information Processing Systems(NeurIPS 2022 spotlight)
 
 Qibing Ren, **Yiting Chen**, Yichuan Mo, Qitian Wu, Junchi Yan. DICE: Domain-attack Invariant Causal Learning for Improved Data Privacy Protection and Adversarial Robustness. Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining(KDD 2022)
